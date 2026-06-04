@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Mvc;
 using MiPrimerApi.Bussiness;
 using MiPrimerApi.Entities;
 using MiPrimerApi.Exceptions;
+using MiPrimerApi.Mappers;
+using MiPrimerApi.Models;
 using System.ComponentModel.DataAnnotations;
 
 [Route("api/[controller]")]
@@ -16,21 +18,22 @@ public class UsersController : ControllerBase
 
     // GET: api/User
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<User>>> GetUser()
+    public async Task<ActionResult<IEnumerable<UserResponse>>> GetUser()
     {
         //devolver el listado de usuarios
         var users = await _service.GetAllUsersAsync();
-        return Ok(users);
+        return Ok(users.ToDtoList());
     }
 
     // GET: api/User/5
     [HttpGet("{id:int}")]
-    public async Task<ActionResult<User>> GetUser([FromRoute]int id)
+    public async Task<ActionResult<UserResponse>> GetUser([FromRoute]int id)
     {
         try
         {
             var user = await _service.GetUserAsync(id);
-            return Ok(user);
+            var response = user.ToDto();
+            return Ok(response);
         }
         catch (EntityNotFoundException ex)
         {
@@ -41,11 +44,12 @@ public class UsersController : ControllerBase
     // PUT: api/User/5
     // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
     [HttpPut("{id:int}")]
-    public async Task<IActionResult> PutUser([Required][FromRoute] int? id, [FromBody] User user)
+    public async Task<IActionResult> PutUser([Required][FromRoute] int? id, [FromBody] UserRequest user)
     {
         try
         {
-            await _service.UpdateUserAsync(id!.Value, user);
+            var entity = user.ToEntity(id!.Value);
+            await _service.UpdateUserAsync(id!.Value, entity);
         }
         catch (NotSameIdException ex)
         {
@@ -62,12 +66,13 @@ public class UsersController : ControllerBase
     // POST: api/User
     // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
     [HttpPost]
-    public async Task<ActionResult<User>> PostUser(User user)
+    public async Task<ActionResult<UserResponse>> PostUser(UserRequest request)
     {
-        var created = await _service.CreateUserAsync(user);
-        
+        var entity = request.ToEntity();
+        var result = await _service.CreateUserAsync(entity);
+        var userCreated = result.ToDto();
         //devuelve un 201 con el curl para poder hacer get by id
-        return CreatedAtAction(nameof(GetUser), new { id = created.Id }, created);
+        return CreatedAtAction(nameof(GetUser), new { id = userCreated.Id }, userCreated);
     }
 
     // DELETE: api/User/5

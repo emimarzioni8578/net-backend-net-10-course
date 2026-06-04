@@ -65,6 +65,7 @@ app.publish/
 *.temp
 *.bak
 *.orig
+*.v2
 
 # Logs
 *.log

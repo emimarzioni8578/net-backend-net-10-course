@@ -1,5 +1,6 @@
 ﻿using MiPrimerApi.Entities;
 using Microsoft.EntityFrameworkCore;
+using MiPrimerApi.Mappers;
 
 namespace MiPrimerApi.DataAccess.Repositories
 {

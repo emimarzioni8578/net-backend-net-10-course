@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\dataaccess\\gallerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\dataaccess\\gallerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\bussiness\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\bussiness\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\dataaccess\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,11 +23,31 @@
       "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260602232127_NewChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\bussiness\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\bussiness\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\models\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\dataaccess\\gallerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\dataaccess\\gallerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260602232127_NewChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,10 +82,6 @@
       "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|c:\\users\\emima\\onedrive\\escritorio\\miprimerapi\\net-backend-net-10-course\\miprimerapi\\miprimerapi\\migrations\\gallerydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4907DF13-BC02-7A90-F116-0DEE91938CA9}|MiPrimerApi\\MiPrimerApi.csproj|solutionrelative:miprimerapi\\migrations\\gallerydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -100,7 +112,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -108,74 +120,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 2,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Mappers\\UserMapper.cs",
+              "RelativeDocumentMoniker": "MiPrimerApi\\Mappers\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Mappers\\UserMapper.cs",
+              "RelativeToolTip": "MiPrimerApi\\Mappers\\UserMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T22:07:51.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Models\\UserResponse.cs",
+              "RelativeDocumentMoniker": "MiPrimerApi\\Models\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Models\\UserResponse.cs",
+              "RelativeToolTip": "MiPrimerApi\\Models\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T22:04:10.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Models\\UserRequest.cs",
+              "RelativeDocumentMoniker": "MiPrimerApi\\Models\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Models\\UserRequest.cs",
+              "RelativeToolTip": "MiPrimerApi\\Models\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T22:03:47.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAIBJwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-06-04T16:29:15.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Entities\\Address.cs",
-              "RelativeDocumentMoniker": "MiPrimerApi\\Entities\\Address.cs",
-              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Entities\\Address.cs",
-              "RelativeToolTip": "MiPrimerApi\\Entities\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T22:49:22.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "MiPrimerApi\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Controllers\\UsersController.cs*",
+              "RelativeToolTip": "MiPrimerApi\\Controllers\\UsersController.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwE8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T22:27:25.225Z"
+              "WhenOpened": "2026-05-28T22:27:25.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "UsersRepository.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\DataAccess\\Repositories\\UsersRepository.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\DataAccess\\Repositories\\UsersRepository.cs",
               "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\DataAccess\\Repositories\\UsersRepository.cs",
               "RelativeToolTip": "MiPrimerApi\\DataAccess\\Repositories\\UsersRepository.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAUwAoAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T19:32:24.336Z"
+              "WhenOpened": "2026-05-28T19:32:24.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GalleryDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\DataAccess\\GalleryDbContext.cs",
-              "RelativeDocumentMoniker": "MiPrimerApi\\DataAccess\\GalleryDbContext.cs",
-              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\DataAccess\\GalleryDbContext.cs",
-              "RelativeToolTip": "MiPrimerApi\\DataAccess\\GalleryDbContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T22:02:53.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Company.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Entities\\Company.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Entities\\Company.cs",
               "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Entities\\Company.cs",
               "RelativeToolTip": "MiPrimerApi\\Entities\\Company.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T23:09:47.889Z",
               "EditorCaption": ""
@@ -183,31 +212,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "MiPrimerApi\\Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Entities\\Address.cs",
+              "RelativeToolTip": "MiPrimerApi\\Entities\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T22:49:22.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Entities\\User.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Entities\\User.cs",
               "RelativeToolTip": "MiPrimerApi\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T21:56:24.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20260602232127_NewChange.cs",
-              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260602232127_NewChange.cs",
-              "RelativeDocumentMoniker": "..\\..\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260602232127_NewChange.cs",
-              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260602232127_NewChange.cs",
-              "RelativeToolTip": "..\\..\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260602232127_NewChange.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T23:21:27.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "20260602230433_CreateAddressRelationShip.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260602230433_CreateAddressRelationShip.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Migrations\\20260602230433_CreateAddressRelationShip.cs",
@@ -219,7 +249,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 5,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "MiPrimerApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "MiPrimerApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T12:57:32.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Bussiness\\UsersService.cs",
+              "RelativeDocumentMoniker": "MiPrimerApi\\Bussiness\\UsersService.cs",
+              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Bussiness\\UsersService.cs",
+              "RelativeToolTip": "MiPrimerApi\\Bussiness\\UsersService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwEIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T21:12:17.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260602232127_NewChange.cs",
+              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260602232127_NewChange.cs",
+              "RelativeDocumentMoniker": "..\\..\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260602232127_NewChange.cs",
+              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260602232127_NewChange.cs",
+              "RelativeToolTip": "..\\..\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260602232127_NewChange.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T23:21:27.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GalleryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\DataAccess\\GalleryDbContext.cs",
+              "RelativeDocumentMoniker": "MiPrimerApi\\DataAccess\\GalleryDbContext.cs",
+              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\DataAccess\\GalleryDbContext.cs",
+              "RelativeToolTip": "MiPrimerApi\\DataAccess\\GalleryDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T22:02:53.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "20260602231511_CreateCompanyEntityAndRelationship.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260602231511_CreateCompanyEntityAndRelationship.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Migrations\\20260602231511_CreateCompanyEntityAndRelationship.cs",
@@ -231,19 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsersService.cs",
-              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Bussiness\\UsersService.cs",
-              "RelativeDocumentMoniker": "MiPrimerApi\\Bussiness\\UsersService.cs",
-              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Bussiness\\UsersService.cs",
-              "RelativeToolTip": "MiPrimerApi\\Bussiness\\UsersService.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T21:12:17.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "20260528222005_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260528222005_InitialCreate.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Migrations\\20260528222005_InitialCreate.cs",
@@ -255,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "EntityNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Bussiness\\Exceptions\\EntityNotFoundException.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Bussiness\\Exceptions\\EntityNotFoundException.cs",
@@ -267,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "ErrorResponse.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Responses\\ErrorResponse.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Responses\\ErrorResponse.cs",
@@ -279,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Program.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Program.cs",
@@ -291,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "NotSameIdException.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Bussiness\\Exceptions\\NotSameIdException.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Bussiness\\Exceptions\\NotSameIdException.cs",
@@ -303,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "ValueDto.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Models\\ValueDto.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Models\\ValueDto.cs",
@@ -315,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "MiPrimerApi\\appsettings.Development.json",
@@ -327,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "PostValueDto.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Models\\PostValueDto.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Models\\PostValueDto.cs",
@@ -339,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "20260528222425_NewChanges.cs",
               "DocumentMoniker": "C:\\proyects\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260528222425_NewChanges.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\proyects\\MiPrimerApi\\MiPrimerApi\\Migrations\\20260528222425_NewChanges.cs",
@@ -351,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "GalleryDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Migrations\\GalleryDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "MiPrimerApi\\Migrations\\GalleryDbContextModelSnapshot.cs",
@@ -363,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\appsettings.json",
               "RelativeDocumentMoniker": "MiPrimerApi\\appsettings.json",
@@ -372,18 +440,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-28T17:47:55.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "MiPrimerApi\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\Users\\emima\\OneDrive\\Escritorio\\MiPrimerApi\\net-backend-net-10-course\\MiPrimerApi\\MiPrimerApi\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "MiPrimerApi\\Controllers\\ValuesController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T12:57:32.339Z"
             }
           ]
         }
