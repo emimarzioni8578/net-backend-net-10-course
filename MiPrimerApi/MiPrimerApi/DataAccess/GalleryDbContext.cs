@@ -11,6 +11,8 @@ namespace MiPrimerApi.DataAccess
 
         public DbSet<User> Users { get; set; }
         public DbSet<Address> Addresses { get; set; }
+        public DbSet<Company> Companies { get; set; }
+        public DbSet<Geo> Geos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -25,6 +27,11 @@ namespace MiPrimerApi.DataAccess
                 .HasMany(c => c.Users)
                 .WithOne(u => u.Company)
                 .HasForeignKey(u => u.CompanyId);
+
+            modelBuilder.Entity<Address>()
+                 .HasOne(g => g.Geo)
+                 .WithOne(a => a.Address)
+                 .HasForeignKey<Geo>(g => g.AddressId);
         }
     }
 }

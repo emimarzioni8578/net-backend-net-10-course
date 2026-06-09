@@ -66,6 +66,24 @@ app.publish/
 *.bak
 *.orig
 *.v2
+*.vsidx
+
+# Visual Studio generated state
+DocumentLayout.json
+DocumentLayout.backup.json
+copilot-chat/
+CopilotIndices/
+ProjectEvaluation/
+
+# Compiled binaries and generated build files
+*.dll
+*.exe
+*.pdb
+*.bin
+*.db
+*.db-shm
+*.db-wal
+*.dswa.cache.json
 
 # Logs
 *.log
